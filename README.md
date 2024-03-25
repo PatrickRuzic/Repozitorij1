@@ -1,4 +1,4 @@
 # Repozitorij1
-Repozitorij za Zadaću 2
+Repozitorij za Zadaće
 
 Test 1 za Zadaću 2
